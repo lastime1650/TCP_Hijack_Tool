@@ -70,7 +70,7 @@
 ---
 # 샘플 채팅 서버 로직
 ![initial](https://github.com/lastime1650/TCP_Hijack_Tool/blob/main/images/image3.png)
- 위 사진에서는 샘플(채팅클라이언트, 채팅서버)에 대한 동작 구조를 설명하고 있습니다. 
+ 위 사진에서는 샘플[https://github.com/lastime1650/TCP_Hijack_Tool/tree/main/Sample_Chat_Sources](채팅클라이언트_채팅서버)에 대한 동작 구조를 설명하고 있습니다. 
  <br>또한 클라이언트 단에서는, send(전송), recv(수신)을 "비동기"스레드로 처리합니다. 
  <br>각 메시지의 제한 길이는 **128**로 잡았습니다. 
 > [!Note]
