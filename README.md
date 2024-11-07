@@ -9,4 +9,4 @@
 
 이 TCP 하이재킹 공격은 공격자가 IP를 피해자로 스푸핑하여 서버에게 RST를 보내고, 중간자<->서버 간 TCP세션은 " SCAPY " 도구로 맺습니다
 
-[!CAUTION]SCAPY도구로 TCP세션을 맺는 경우, 
+**CAUTION**SCAPY도구로 TCP세션을 맺는 경우, 
