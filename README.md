@@ -29,3 +29,6 @@
 > 만약 하나라도 관리하지 않으면, TCP 송신자는 Retransmission(재전송)패킷을 지속적으로 날려, 통신에서 문제가 **누적**될 수 있어, 연결이 끊어질 수 있습니다.
 
 (5) 모든 TCP 세션에 적용되지 않을 수 있습니다. PSH+ACK가 트리거 되었을 때, 이를 감지하고 세션을 유지하는 역할을 합니다. 
+
+(6) Scapy기반 세션 유지, 불안정할 수 있습니다.
+[!img](https://github.com/lastime1650/TCP_Hijack_Tool/blob/main/images/image1.png)
