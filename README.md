@@ -33,3 +33,6 @@
 (6) Scapy기반 세션 유지, 불안정할 수 있습니다.
 ![initial](https://github.com/lastime1650/TCP_Hijack_Tool/blob/main/images/image1.png)
 위 사진은 이 도구를 통한 피해자 클라이언트<->중간자<->서버간의 세션 유지를 하고 있지만, 한번 씩 retransmission이 발생하는 것을 보여주고 있습니다. 
+
+---
+
