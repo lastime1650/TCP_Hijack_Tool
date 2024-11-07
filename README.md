@@ -6,7 +6,8 @@
 #세션 하이재킹?
 
 세션 하이재킹은 **세션을 가로채는 공격**입니다. 
-
+![initial](https://github.com/lastime1650/TCP_Hijack_Tool/blob/main/images/image2.png)
+<br>위 사진에서는 세션 하이재킹이 어떻게 진행되는 지 자세하게 흐름 순으로 설명하고 있습니다.
 
 
 ---
